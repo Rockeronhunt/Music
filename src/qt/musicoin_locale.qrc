@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="ar">locale/musicoin_ar.qm</file>
+        <file alias="bg">locale/musicoin_bg.qm</file>
+        <file alias="de">locale/musicoin_de.qm</file>
+        <file alias="en">locale/musicoin_en.qm</file>
+        <file alias="es">locale/musicoin_es.qm</file>
+        <file alias="fi">locale/musicoin_fi.qm</file>
+        <file alias="fr">locale/musicoin_fr.qm</file>
+        <file alias="it">locale/musicoin_it.qm</file>
+        <file alias="ja">locale/musicoin_ja.qm</file>
+        <file alias="ko">locale/musicoin_ko.qm</file>
+        <file alias="nl">locale/musicoin_nl.qm</file>
+        <file alias="pl">locale/musicoin_pl.qm</file>
+        <file alias="pt">locale/musicoin_pt.qm</file>
+        <file alias="ru">locale/musicoin_ru.qm</file>
+        <file alias="sk">locale/musicoin_sk.qm</file>
+        <file alias="sv">locale/musicoin_sv.qm</file>
+        <file alias="th">locale/musicoin_th.qm</file>
+        <file alias="tr">locale/musicoin_tr.qm</file>
+        <file alias="vi">locale/musicoin_vi.qm</file>
+        <file alias="zh_CN">locale/musicoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/musicoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

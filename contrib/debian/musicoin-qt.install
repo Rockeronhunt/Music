@@ -1,0 +1,6 @@
+usr/local/bin/musicoin-qt usr/bin
+share/pixmaps/musicoin32.xpm usr/share/pixmaps
+share/pixmaps/musicoin16.xpm usr/share/pixmaps
+share/pixmaps/musicoin128.png usr/share/pixmaps
+debian/musicoin-qt.desktop usr/share/applications
+debian/musicoin-qt.protocol usr/share/kde4/services/

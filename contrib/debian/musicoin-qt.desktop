@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=MUSICOIN Core
+Comment=MUSICOIN P2P Cryptocurrency
+Comment[de]=Verbinde mit dem MUSICOIN peer-to-peer Netzwerk
+Comment[fr]=MUSICOIN, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=MUSICOIN, eşten eşe kriptografik sanal para birimi
+Exec=musicoin-qt %u
+Terminal=false
+Type=Application
+Icon=musicoin128
+MimeType=x-scheme-handler/musicoin;
+Categories=Office;Finance;
